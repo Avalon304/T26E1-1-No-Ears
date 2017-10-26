@@ -1,0 +1,10 @@
+<gun_01.model>
+  <materialNames>
+  </materialNames>
+  <visibilityBox>
+    <min>-1.33751 -0.345636 -0.851677</min>
+    <max>1.3132 0.506374 5.63948</max>
+  </visibilityBox>
+  <tank>	true	</tank>
+  <nodefullVisual>vehicles/american/A80_T26_E4_SuperPershing/normal/lod0/Gun_01</nodefullVisual>
+</gun_01.model>
